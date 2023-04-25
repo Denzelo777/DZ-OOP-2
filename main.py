@@ -1,5 +1,3 @@
-# Задачи 1 и 2 здесь, 3 задача в отдельном файле.
-
 from pprint import pprint
 
 with open('cook book.txt', 'rt', encoding='utf-8') as file:
